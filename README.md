@@ -1,4 +1,9 @@
 
+# This is the forked version of Redactor-Rails with the new before_action syntax
+
+
+
+
 # This repo is deprecated
 ## Please check out official gem for Redactor 2. https://github.com/Redactor2/redactor2_rails
 
